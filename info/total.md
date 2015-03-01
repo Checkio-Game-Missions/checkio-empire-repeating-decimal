@@ -1,10 +1,10 @@
 \- Base,We are ready to landing.
 
-\- Pilot, Use spiral circles to lower.
+\- Pilot, use spiraling circles to lower your altitude.
 
 (2 hours later)
 
-\- Base, Base! We are flying by the same circle already last ten times. Are you sure your calculations are correct?
+\- Base, Base! We have flown by the same circle already last ten times. Are you sure your calculations are correct?
 
 In mathematics, a repeating decimal is a way of representing a rational number.
 A decimal representation of a number is called a repeating decimal 
@@ -51,7 +51,7 @@ convert(4, 2) == "2."
 ```
 **How it is used:**
 
-This is the important part for mathematical software. And of you need to help your children with homework.
+This is the important concept for mathematical software and for your math homework.
 
 **Precondition:**
 ```python
