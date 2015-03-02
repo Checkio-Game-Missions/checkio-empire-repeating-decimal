@@ -1,7 +1,7 @@
 \- Base,We are ready to landing.
 
-\- Pilot, Use spiral circles to lower.
+\- Pilot, use spiraling circles to lower your altitude.
 
 (2 hours later)
 
-\- Base, Base! We are flying by the same circle already last ten times. Are you sure your calculations are correct?
+\- Base, Base! We have flown by the same circle already last ten times. Are you sure your calculations are correct?
