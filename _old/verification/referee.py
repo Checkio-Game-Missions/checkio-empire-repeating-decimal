@@ -14,5 +14,5 @@ api.add_listener(
             'python-27': unwrap_args,  # or None
             'python-3': unwrap_args
         },
-        function_name='convert'
+        DEFAULT_FUNCTION_NAME='convert'
     ).on_ready)
