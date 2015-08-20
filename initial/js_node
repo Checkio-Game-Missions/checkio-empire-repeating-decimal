@@ -15,4 +15,5 @@ if (!global.is_checking) {
     assert.equal(convert(29, 12), "2.41(6)", "29/12 not and repeating part");
     assert.equal(convert(11, 7), "1.(571428)", "11/7 six digits");
     assert.equal(convert(0, 117), "0.", "Zero");
+    console.log("Use 'Check' to earn sweet rewards!");
 }
